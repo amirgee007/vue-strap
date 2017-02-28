@@ -19,6 +19,7 @@ import formValidator from './FormValidator.vue'
 import input from './Input.vue'
 import modal from './Modal.vue'
 import navbar from './Navbar.vue'
+import navbarDropdown from './NavbarDropdown.vue'
 import option from './Option.vue'
 import panel from './Panel.vue'
 import popover from './Popover.vue'
@@ -58,6 +59,7 @@ const VueStrap = {
   input,
   modal,
   navbar,
+  navbarDropdown,
   option,
   panel,
   popover,
